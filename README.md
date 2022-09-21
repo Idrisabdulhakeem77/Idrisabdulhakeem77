@@ -5,7 +5,7 @@ Front End Developer
 ---------------------------------
 
 
-I am Idris, a Front End Software Enginner with over 3yrs experience with HTML,CSS,Javascript,React and Other frontend frameworks and Libries.
+I am Idris, a Front End Software Enginner
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [idrisabdulhakeem77@gmail.com](mailto:idrisabdulhakeem77@gmail.com)
