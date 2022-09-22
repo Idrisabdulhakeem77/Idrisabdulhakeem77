@@ -5,7 +5,7 @@ Front End Developer
 ---------------------------------
 
 
-I am Idris, a Front End Software Enginner
+I am Idris, a Front End Software Engineer
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [idrisabdulhakeem77@gmail.com](mailto:idrisabdulhakeem77@gmail.com)
